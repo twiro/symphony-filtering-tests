@@ -4,5 +4,6 @@ Testing datasource and publish filtering in [Symphony CMS](https://github.com/sy
 
 ## Fields
 
-1. **[Checkbox Field](fields/checkbox-field.md)**
+1. **[Checkbox Field](fields/checkbox-field.md)** :white_check_mark:
+2. **[Input Field](fields/input-field.md)** :x:
 
