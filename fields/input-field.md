@@ -51,9 +51,7 @@
 
 <sup>
 <strong>*</strong> Works when using autocomplete suggestions <i>/</i> Doesn't work when typing manually.
-</sup>
-
-<sup>
+<br/><br/>
 <strong>DF</strong> = Datasource Filtering
 <i>/</i>
 <strong>PF</strong> = Publish Filtering

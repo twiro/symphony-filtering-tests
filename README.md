@@ -1,6 +1,6 @@
 # Symphony Filtering Tests
 
-Testing datasource and publish filtering in [Symphony CMS](https://github.com/symphonycms/symphony-2)
+Testing **Datasource Filtering** and **Publish Filtering** in [Symphony CMS](https://github.com/symphonycms/symphony-2)
 
 ## Fields
 
